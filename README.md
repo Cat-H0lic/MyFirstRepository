@@ -15,3 +15,4 @@ My goals are to learn more about:
 * Push
 * Pull / Fetch 
 * Merge
+* Homework
