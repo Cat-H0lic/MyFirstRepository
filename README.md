@@ -8,3 +8,10 @@ My goals are to learn more about:
 * .NET and C#
 
 **Let the fun begin!**
+
+### What should I learn now
+
+* Branch
+* Push
+* Pull / Fetch 
+* Merge
